@@ -1,0 +1,15 @@
+{
+  "name": "scan-demo-js",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable demo for GitHub security scanning",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.4",
+    "minimist": "1.2.0",
+    "jsonwebtoken": "8.5.0",
+    "mysql": "2.17.1",
+    "node-fetch": "2.6.0"
+  }
+}
